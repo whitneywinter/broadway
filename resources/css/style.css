@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.list {
+  font-size: 18px;
+  font-color: white;
+}
+
+.header {
+  background-image: url("/Users/whitneywinter/Documents/Projects/broadway/resources/the-flatiron-building.png")
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.newyork {
+  color: white;
+  background-image: url("/Users/whitneywinter/Documents/Projects/broadway/resources/the-flatiron-building.png");
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
